@@ -1,0 +1,33 @@
+.header-site{
+    background-image: url(../img/img-01.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.content-site {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.img-site {
+    background-image: url(../img/img-02.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.footer-site {
+    background-color: #333;
+    color: #fff;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
